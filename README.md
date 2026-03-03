@@ -1,4 +1,3 @@
-```markdown
 # 📊 Metro Business Performance Dashboard
 
 A fully developed Business Intelligence dashboard designed to monitor sales performance, optimize operations, and enable customer segmentation using RFM analysis.
