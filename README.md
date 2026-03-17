@@ -137,18 +137,6 @@ During development, a foreign key mismatch was identified between `FactSales` an
 
 ---
 
-## 🚀 How to Use
-
-1. Open the `.pbix` file in Power BI Desktop.
-2. Refresh data (if applicable).
-3. Use slicers to filter by:
-   - Date
-   - City
-   - Employee
-   - Gender
-4. Navigate between report pages.
-
----
 
 ## 📊 Business Impact
 
@@ -172,12 +160,5 @@ This dashboard enables:
 
 ---
 
-## 👩‍💼 Author
-
-Business Intelligence & Data Analytics Project  
-Metro Retail Performance Analytics Initiative  
-
----
-
 ⭐ If you found this project useful, consider giving it a star!
-```
+
